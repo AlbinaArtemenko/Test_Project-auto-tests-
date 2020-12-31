@@ -1,0 +1,262 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\user\OneDrive\Desktop\Test_Project-auto-tests-\android\app\src\main\AndroidManifest.xml:1:1-28:12
+INJECTED from C:\Users\user\OneDrive\Desktop\Test_Project-auto-tests-\android\app\src\main\AndroidManifest.xml:1:1-28:12
+INJECTED from C:\Users\user\OneDrive\Desktop\Test_Project-auto-tests-\android\app\src\main\AndroidManifest.xml:1:1-28:12
+INJECTED from C:\Users\user\OneDrive\Desktop\Test_Project-auto-tests-\android\app\src\main\AndroidManifest.xml:1:1-28:12
+MERGED from [:react-native-community_async-storage] C:\Users\user\OneDrive\Desktop\Test_Project-auto-tests-\node_modules\@react-native-community\async-storage\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-community_masked-view] C:\Users\user\OneDrive\Desktop\Test_Project-auto-tests-\node_modules\@react-native-community\masked-view\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-9:12
+MERGED from [:appcenter] C:\Users\user\OneDrive\Desktop\Test_Project-auto-tests-\node_modules\appcenter\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-11:12
+MERGED from [:appcenter-analytics] C:\Users\user\OneDrive\Desktop\Test_Project-auto-tests-\node_modules\appcenter-analytics\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-11:12
+MERGED from [:appcenter-crashes] C:\Users\user\OneDrive\Desktop\Test_Project-auto-tests-\node_modules\appcenter-crashes\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-gesture-handler] C:\Users\user\OneDrive\Desktop\Test_Project-auto-tests-\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-reanimated] C:\Users\user\OneDrive\Desktop\Test_Project-auto-tests-\node_modules\react-native-reanimated\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-safe-area-context] C:\Users\user\OneDrive\Desktop\Test_Project-auto-tests-\node_modules\react-native-safe-area-context\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-screens] C:\Users\user\OneDrive\Desktop\Test_Project-auto-tests-\node_modules\react-native-screens\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.63.3] C:\Users\user\.gradle\caches\transforms-2\files-2.1\bfe510202f93c9e3d9a21e90d02761cd\jetified-react-native-0.63.3\AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\71cc9371338c7314820fbc8d14b58dd2\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [org.webkit:android-jsc:r245459] C:\Users\user\.gradle\caches\transforms-2\files-2.1\9ba057a9c1f692a10d75a42b6d37ec8a\android-jsc-r245459\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\87cfc4f83711743bead1b686a0a2eedd\material-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\aa91a5bde1cc551e53038e69210398ce\appcompat-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\e6727c067831d3bf8b9ec27c7fe66405\fresco-2.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\44cfc063a666bb2c135c7e1b021a3318\imagepipeline-okhttp3-2.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\731f2441aefe5cd4d9ff536f9feac74f\drawee-2.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\878ea3adc210f63250f23c5f1669c7ae\nativeimagefilters-2.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\34dc20260c87fa126b9ba7faf83ca47f\imagepipeline-2.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\f83b5ca009cbfb6ec2e8ed59c5609906\nativeimagetranscoder-2.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\ac2a17f6e36df5976223ba3fa49b7f7f\imagepipeline-base-2.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.8.2] C:\Users\user\.gradle\caches\transforms-2\files-2.1\f3eb3d4c653065beaf98cde53556f1bf\soloader-0.8.2\AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\e0c6160ecfb8e51600bde353187adec1\appcompat-resources-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\77fb11aeedf90f25ba30df3359c9102e\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\b12df9e83d76a9885f1eb97c24bad4aa\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\131c7d8c8b611dc3c31a29d99f2f909e\viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.2.1] C:\Users\user\.gradle\caches\transforms-2\files-2.1\509844205c9f54175dec2b802279fd24\fragment-1.2.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\41a97c44406b2b20b5440930b5eef54f\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\7bcd44a5bf93bf15877b20f016f9c740\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\1b951b174f57c86c2b4ed1f0b8c061b1\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\933c4b52cb143a1e58e915c7b2c4eda6\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\2df04ab0a9245aa9e20ae1f6aa30d69c\activity-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\4d8b4c18900ee57fce39218b48a2a5bb\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\1d3a5e98492ad47fdbb8f92f16a19fd9\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\837ade8e116945e2f19b3d17ca6e3878\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\a7a386d7e2c0cb925b6452edaa11b521\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.1.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\ee3864afee50a91aa4040b41b2e3f2ab\core-1.1.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\29114832ef3eda51ba3f6e86dec48e2b\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\509ff0c989628dfa2a4a7b2897e6097d\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\fe37825b0c30763852c91d67c74daf77\lifecycle-viewmodel-savedstate-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\ee7cabb582835c26eda8e36122072cd0\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\74880a7b063e52e6557cd2e61148787e\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\e621b1705aef1acc95b7321f657101c7\lifecycle-runtime-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\17cce4fd6e4a6f5bc659cd9bc248ca3e\savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\25c35f3c30e548700fd5d1921bcb243a\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\afc3f6bcdb7da9088198def485b6f55b\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\69ffa587ebf8f5af63864ffcf4d572d1\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.microsoft.appcenter.reactnative:appcenter-react-native:4.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\640c89ff6e23fcfc7fc6e18e2119dc06\appcenter-react-native-4.0.0\AndroidManifest.xml:2:1-11:12
+MERGED from [com.microsoft.appcenter:appcenter-analytics:4.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\8129b5da2de541b5cca9a5fdff7e8aba\jetified-appcenter-analytics-4.0.0\AndroidManifest.xml:6:1-15:12
+MERGED from [com.microsoft.appcenter:appcenter-crashes:4.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\c4dfa146a9dd9c30d1604b108dafe631\jetified-appcenter-crashes-4.0.0\AndroidManifest.xml:6:1-15:12
+MERGED from [com.microsoft.appcenter:appcenter:4.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\0b52e7781688d96dea37e60b8282a77c\jetified-appcenter-4.0.0\AndroidManifest.xml:6:1-18:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\260e711643481031f589848ca9eaa14a\jetified-fbcore-2.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:annotation:0.8.2] C:\Users\user\.gradle\caches\transforms-2\files-2.1\a4030b3bd93fa48cebbd8099fc5a4286\annotation-0.8.2\AndroidManifest.xml:2:1-13:12
+INJECTED from C:\Users\user\OneDrive\Desktop\Test_Project-auto-tests-\android\app\src\main\AndroidManifest.xml:1:1-28:12
+INJECTED from C:\Users\user\OneDrive\Desktop\Test_Project-auto-tests-\android\app\src\main\AndroidManifest.xml:1:1-28:12
+INJECTED from C:\Users\user\OneDrive\Desktop\Test_Project-auto-tests-\android\app\src\main\AndroidManifest.xml:1:1-28:12
+	package
+		ADDED from C:\Users\user\OneDrive\Desktop\Test_Project-auto-tests-\android\app\src\main\AndroidManifest.xml:2:3-25
+		INJECTED from C:\Users\user\OneDrive\Desktop\Test_Project-auto-tests-\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\user\OneDrive\Desktop\Test_Project-auto-tests-\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\user\OneDrive\Desktop\Test_Project-auto-tests-\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\user\OneDrive\Desktop\Test_Project-auto-tests-\android\app\src\main\AndroidManifest.xml:1:1-28:12
+		INJECTED from C:\Users\user\OneDrive\Desktop\Test_Project-auto-tests-\android\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\user\OneDrive\Desktop\Test_Project-auto-tests-\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\user\OneDrive\Desktop\Test_Project-auto-tests-\android\app\src\main\AndroidManifest.xml:1:1-28:12
+		INJECTED from C:\Users\user\OneDrive\Desktop\Test_Project-auto-tests-\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\user\OneDrive\Desktop\Test_Project-auto-tests-\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\user\OneDrive\Desktop\Test_Project-auto-tests-\android\app\src\main\AndroidManifest.xml:4:5-67
+MERGED from [com.microsoft.appcenter:appcenter:4.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\0b52e7781688d96dea37e60b8282a77c\jetified-appcenter-4.0.0\AndroidManifest.xml:15:5-67
+MERGED from [com.microsoft.appcenter:appcenter:4.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\0b52e7781688d96dea37e60b8282a77c\jetified-appcenter-4.0.0\AndroidManifest.xml:15:5-67
+	android:name
+		ADDED from C:\Users\user\OneDrive\Desktop\Test_Project-auto-tests-\android\app\src\main\AndroidManifest.xml:4:22-64
+application
+ADDED from C:\Users\user\OneDrive\Desktop\Test_Project-auto-tests-\android\app\src\main\AndroidManifest.xml:6:5-26:19
+MERGED from [com.facebook.react:react-native:0.63.3] C:\Users\user\.gradle\caches\transforms-2\files-2.1\bfe510202f93c9e3d9a21e90d02761cd\jetified-react-native-0.63.3\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.63.3] C:\Users\user\.gradle\caches\transforms-2\files-2.1\bfe510202f93c9e3d9a21e90d02761cd\jetified-react-native-0.63.3\AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\87cfc4f83711743bead1b686a0a2eedd\material-1.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\87cfc4f83711743bead1b686a0a2eedd\material-1.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.facebook.soloader:soloader:0.8.2] C:\Users\user\.gradle\caches\transforms-2\files-2.1\f3eb3d4c653065beaf98cde53556f1bf\soloader-0.8.2\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.8.2] C:\Users\user\.gradle\caches\transforms-2\files-2.1\f3eb3d4c653065beaf98cde53556f1bf\soloader-0.8.2\AndroidManifest.xml:11:5-20
+MERGED from [androidx.core:core:1.1.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\ee3864afee50a91aa4040b41b2e3f2ab\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\ee3864afee50a91aa4040b41b2e3f2ab\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\509ff0c989628dfa2a4a7b2897e6097d\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\509ff0c989628dfa2a4a7b2897e6097d\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [com.facebook.soloader:annotation:0.8.2] C:\Users\user\.gradle\caches\transforms-2\files-2.1\a4030b3bd93fa48cebbd8099fc5a4286\annotation-0.8.2\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:annotation:0.8.2] C:\Users\user\.gradle\caches\transforms-2\files-2.1\a4030b3bd93fa48cebbd8099fc5a4286\annotation-0.8.2\AndroidManifest.xml:11:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\ee3864afee50a91aa4040b41b2e3f2ab\core-1.1.0\AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from C:\Users\user\OneDrive\Desktop\Test_Project-auto-tests-\android\app\src\main\AndroidManifest.xml:9:7-39
+	android:roundIcon
+		ADDED from C:\Users\user\OneDrive\Desktop\Test_Project-auto-tests-\android\app\src\main\AndroidManifest.xml:11:7-52
+	android:icon
+		ADDED from C:\Users\user\OneDrive\Desktop\Test_Project-auto-tests-\android\app\src\main\AndroidManifest.xml:10:7-41
+	android:allowBackup
+		ADDED from C:\Users\user\OneDrive\Desktop\Test_Project-auto-tests-\android\app\src\main\AndroidManifest.xml:12:7-34
+	android:theme
+		ADDED from C:\Users\user\OneDrive\Desktop\Test_Project-auto-tests-\android\app\src\main\AndroidManifest.xml:13:7-38
+	android:networkSecurityConfig
+		ADDED from C:\Users\user\OneDrive\Desktop\Test_Project-auto-tests-\android\app\src\main\AndroidManifest.xml:8:7-67
+	android:name
+		ADDED from C:\Users\user\OneDrive\Desktop\Test_Project-auto-tests-\android\app\src\main\AndroidManifest.xml:7:7-38
+activity#com.mobxtest.MainActivity
+ADDED from C:\Users\user\OneDrive\Desktop\Test_Project-auto-tests-\android\app\src\main\AndroidManifest.xml:14:7-24:18
+	android:label
+		ADDED from C:\Users\user\OneDrive\Desktop\Test_Project-auto-tests-\android\app\src\main\AndroidManifest.xml:16:9-41
+	android:launchMode
+		ADDED from C:\Users\user\OneDrive\Desktop\Test_Project-auto-tests-\android\app\src\main\AndroidManifest.xml:18:9-40
+	android:windowSoftInputMode
+		ADDED from C:\Users\user\OneDrive\Desktop\Test_Project-auto-tests-\android\app\src\main\AndroidManifest.xml:19:9-51
+	android:configChanges
+		ADDED from C:\Users\user\OneDrive\Desktop\Test_Project-auto-tests-\android\app\src\main\AndroidManifest.xml:17:9-86
+	android:name
+		ADDED from C:\Users\user\OneDrive\Desktop\Test_Project-auto-tests-\android\app\src\main\AndroidManifest.xml:15:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\user\OneDrive\Desktop\Test_Project-auto-tests-\android\app\src\main\AndroidManifest.xml:20:9-23:25
+action#android.intent.action.MAIN
+ADDED from C:\Users\user\OneDrive\Desktop\Test_Project-auto-tests-\android\app\src\main\AndroidManifest.xml:21:13-65
+	android:name
+		ADDED from C:\Users\user\OneDrive\Desktop\Test_Project-auto-tests-\android\app\src\main\AndroidManifest.xml:21:21-62
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\user\OneDrive\Desktop\Test_Project-auto-tests-\android\app\src\main\AndroidManifest.xml:22:13-73
+	android:name
+		ADDED from C:\Users\user\OneDrive\Desktop\Test_Project-auto-tests-\android\app\src\main\AndroidManifest.xml:22:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from C:\Users\user\OneDrive\Desktop\Test_Project-auto-tests-\android\app\src\main\AndroidManifest.xml:25:7-84
+	android:name
+		ADDED from C:\Users\user\OneDrive\Desktop\Test_Project-auto-tests-\android\app\src\main\AndroidManifest.xml:25:17-81
+uses-sdk
+INJECTED from C:\Users\user\OneDrive\Desktop\Test_Project-auto-tests-\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\user\OneDrive\Desktop\Test_Project-auto-tests-\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\user\OneDrive\Desktop\Test_Project-auto-tests-\android\app\src\main\AndroidManifest.xml
+MERGED from [:react-native-community_async-storage] C:\Users\user\OneDrive\Desktop\Test_Project-auto-tests-\node_modules\@react-native-community\async-storage\android\build\intermediates\library_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_async-storage] C:\Users\user\OneDrive\Desktop\Test_Project-auto-tests-\node_modules\@react-native-community\async-storage\android\build\intermediates\library_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_masked-view] C:\Users\user\OneDrive\Desktop\Test_Project-auto-tests-\node_modules\@react-native-community\masked-view\android\build\intermediates\library_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_masked-view] C:\Users\user\OneDrive\Desktop\Test_Project-auto-tests-\node_modules\@react-native-community\masked-view\android\build\intermediates\library_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:appcenter] C:\Users\user\OneDrive\Desktop\Test_Project-auto-tests-\node_modules\appcenter\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:appcenter] C:\Users\user\OneDrive\Desktop\Test_Project-auto-tests-\node_modules\appcenter\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:appcenter-analytics] C:\Users\user\OneDrive\Desktop\Test_Project-auto-tests-\node_modules\appcenter-analytics\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:appcenter-analytics] C:\Users\user\OneDrive\Desktop\Test_Project-auto-tests-\node_modules\appcenter-analytics\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:appcenter-crashes] C:\Users\user\OneDrive\Desktop\Test_Project-auto-tests-\node_modules\appcenter-crashes\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:appcenter-crashes] C:\Users\user\OneDrive\Desktop\Test_Project-auto-tests-\node_modules\appcenter-crashes\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] C:\Users\user\OneDrive\Desktop\Test_Project-auto-tests-\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] C:\Users\user\OneDrive\Desktop\Test_Project-auto-tests-\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] C:\Users\user\OneDrive\Desktop\Test_Project-auto-tests-\node_modules\react-native-reanimated\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] C:\Users\user\OneDrive\Desktop\Test_Project-auto-tests-\node_modules\react-native-reanimated\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-safe-area-context] C:\Users\user\OneDrive\Desktop\Test_Project-auto-tests-\node_modules\react-native-safe-area-context\android\build\intermediates\library_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-safe-area-context] C:\Users\user\OneDrive\Desktop\Test_Project-auto-tests-\node_modules\react-native-safe-area-context\android\build\intermediates\library_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-screens] C:\Users\user\OneDrive\Desktop\Test_Project-auto-tests-\node_modules\react-native-screens\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-screens] C:\Users\user\OneDrive\Desktop\Test_Project-auto-tests-\node_modules\react-native-screens\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.63.3] C:\Users\user\.gradle\caches\transforms-2\files-2.1\bfe510202f93c9e3d9a21e90d02761cd\jetified-react-native-0.63.3\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.63.3] C:\Users\user\.gradle\caches\transforms-2\files-2.1\bfe510202f93c9e3d9a21e90d02761cd\jetified-react-native-0.63.3\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\71cc9371338c7314820fbc8d14b58dd2\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\71cc9371338c7314820fbc8d14b58dd2\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [org.webkit:android-jsc:r245459] C:\Users\user\.gradle\caches\transforms-2\files-2.1\9ba057a9c1f692a10d75a42b6d37ec8a\android-jsc-r245459\AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] C:\Users\user\.gradle\caches\transforms-2\files-2.1\9ba057a9c1f692a10d75a42b6d37ec8a\android-jsc-r245459\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\87cfc4f83711743bead1b686a0a2eedd\material-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\87cfc4f83711743bead1b686a0a2eedd\material-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\aa91a5bde1cc551e53038e69210398ce\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\aa91a5bde1cc551e53038e69210398ce\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\e6727c067831d3bf8b9ec27c7fe66405\fresco-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\e6727c067831d3bf8b9ec27c7fe66405\fresco-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\44cfc063a666bb2c135c7e1b021a3318\imagepipeline-okhttp3-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\44cfc063a666bb2c135c7e1b021a3318\imagepipeline-okhttp3-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\731f2441aefe5cd4d9ff536f9feac74f\drawee-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\731f2441aefe5cd4d9ff536f9feac74f\drawee-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\878ea3adc210f63250f23c5f1669c7ae\nativeimagefilters-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\878ea3adc210f63250f23c5f1669c7ae\nativeimagefilters-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\34dc20260c87fa126b9ba7faf83ca47f\imagepipeline-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\34dc20260c87fa126b9ba7faf83ca47f\imagepipeline-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\f83b5ca009cbfb6ec2e8ed59c5609906\nativeimagetranscoder-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\f83b5ca009cbfb6ec2e8ed59c5609906\nativeimagetranscoder-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\ac2a17f6e36df5976223ba3fa49b7f7f\imagepipeline-base-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\ac2a17f6e36df5976223ba3fa49b7f7f\imagepipeline-base-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.8.2] C:\Users\user\.gradle\caches\transforms-2\files-2.1\f3eb3d4c653065beaf98cde53556f1bf\soloader-0.8.2\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.8.2] C:\Users\user\.gradle\caches\transforms-2\files-2.1\f3eb3d4c653065beaf98cde53556f1bf\soloader-0.8.2\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\e0c6160ecfb8e51600bde353187adec1\appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\e0c6160ecfb8e51600bde353187adec1\appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\77fb11aeedf90f25ba30df3359c9102e\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\77fb11aeedf90f25ba30df3359c9102e\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\b12df9e83d76a9885f1eb97c24bad4aa\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\b12df9e83d76a9885f1eb97c24bad4aa\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\131c7d8c8b611dc3c31a29d99f2f909e\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\131c7d8c8b611dc3c31a29d99f2f909e\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.1] C:\Users\user\.gradle\caches\transforms-2\files-2.1\509844205c9f54175dec2b802279fd24\fragment-1.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.1] C:\Users\user\.gradle\caches\transforms-2\files-2.1\509844205c9f54175dec2b802279fd24\fragment-1.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\41a97c44406b2b20b5440930b5eef54f\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\41a97c44406b2b20b5440930b5eef54f\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\7bcd44a5bf93bf15877b20f016f9c740\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\7bcd44a5bf93bf15877b20f016f9c740\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\1b951b174f57c86c2b4ed1f0b8c061b1\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\1b951b174f57c86c2b4ed1f0b8c061b1\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\933c4b52cb143a1e58e915c7b2c4eda6\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\933c4b52cb143a1e58e915c7b2c4eda6\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\2df04ab0a9245aa9e20ae1f6aa30d69c\activity-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\2df04ab0a9245aa9e20ae1f6aa30d69c\activity-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\4d8b4c18900ee57fce39218b48a2a5bb\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\4d8b4c18900ee57fce39218b48a2a5bb\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\1d3a5e98492ad47fdbb8f92f16a19fd9\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\1d3a5e98492ad47fdbb8f92f16a19fd9\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\837ade8e116945e2f19b3d17ca6e3878\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\837ade8e116945e2f19b3d17ca6e3878\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\a7a386d7e2c0cb925b6452edaa11b521\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\a7a386d7e2c0cb925b6452edaa11b521\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\ee3864afee50a91aa4040b41b2e3f2ab\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\ee3864afee50a91aa4040b41b2e3f2ab\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\29114832ef3eda51ba3f6e86dec48e2b\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\29114832ef3eda51ba3f6e86dec48e2b\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\509ff0c989628dfa2a4a7b2897e6097d\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\509ff0c989628dfa2a4a7b2897e6097d\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\fe37825b0c30763852c91d67c74daf77\lifecycle-viewmodel-savedstate-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\fe37825b0c30763852c91d67c74daf77\lifecycle-viewmodel-savedstate-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\ee7cabb582835c26eda8e36122072cd0\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\ee7cabb582835c26eda8e36122072cd0\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\74880a7b063e52e6557cd2e61148787e\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\74880a7b063e52e6557cd2e61148787e\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\e621b1705aef1acc95b7321f657101c7\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\e621b1705aef1acc95b7321f657101c7\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\17cce4fd6e4a6f5bc659cd9bc248ca3e\savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\17cce4fd6e4a6f5bc659cd9bc248ca3e\savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\25c35f3c30e548700fd5d1921bcb243a\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\25c35f3c30e548700fd5d1921bcb243a\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\afc3f6bcdb7da9088198def485b6f55b\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\afc3f6bcdb7da9088198def485b6f55b\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\69ffa587ebf8f5af63864ffcf4d572d1\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\69ffa587ebf8f5af63864ffcf4d572d1\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.microsoft.appcenter.reactnative:appcenter-react-native:4.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\640c89ff6e23fcfc7fc6e18e2119dc06\appcenter-react-native-4.0.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.microsoft.appcenter.reactnative:appcenter-react-native:4.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\640c89ff6e23fcfc7fc6e18e2119dc06\appcenter-react-native-4.0.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.microsoft.appcenter:appcenter-analytics:4.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\8129b5da2de541b5cca9a5fdff7e8aba\jetified-appcenter-analytics-4.0.0\AndroidManifest.xml:11:5-13:41
+MERGED from [com.microsoft.appcenter:appcenter-analytics:4.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\8129b5da2de541b5cca9a5fdff7e8aba\jetified-appcenter-analytics-4.0.0\AndroidManifest.xml:11:5-13:41
+MERGED from [com.microsoft.appcenter:appcenter-crashes:4.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\c4dfa146a9dd9c30d1604b108dafe631\jetified-appcenter-crashes-4.0.0\AndroidManifest.xml:11:5-13:41
+MERGED from [com.microsoft.appcenter:appcenter-crashes:4.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\c4dfa146a9dd9c30d1604b108dafe631\jetified-appcenter-crashes-4.0.0\AndroidManifest.xml:11:5-13:41
+MERGED from [com.microsoft.appcenter:appcenter:4.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\0b52e7781688d96dea37e60b8282a77c\jetified-appcenter-4.0.0\AndroidManifest.xml:11:5-13:41
+MERGED from [com.microsoft.appcenter:appcenter:4.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\0b52e7781688d96dea37e60b8282a77c\jetified-appcenter-4.0.0\AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\260e711643481031f589848ca9eaa14a\jetified-fbcore-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\260e711643481031f589848ca9eaa14a\jetified-fbcore-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:annotation:0.8.2] C:\Users\user\.gradle\caches\transforms-2\files-2.1\a4030b3bd93fa48cebbd8099fc5a4286\annotation-0.8.2\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:annotation:0.8.2] C:\Users\user\.gradle\caches\transforms-2\files-2.1\a4030b3bd93fa48cebbd8099fc5a4286\annotation-0.8.2\AndroidManifest.xml:7:5-9:41
+INJECTED from C:\Users\user\OneDrive\Desktop\Test_Project-auto-tests-\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\user\OneDrive\Desktop\Test_Project-auto-tests-\android\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\user\OneDrive\Desktop\Test_Project-auto-tests-\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\user\OneDrive\Desktop\Test_Project-auto-tests-\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\user\OneDrive\Desktop\Test_Project-auto-tests-\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\user\OneDrive\Desktop\Test_Project-auto-tests-\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\user\OneDrive\Desktop\Test_Project-auto-tests-\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\user\OneDrive\Desktop\Test_Project-auto-tests-\android\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.microsoft.appcenter:appcenter:4.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\0b52e7781688d96dea37e60b8282a77c\jetified-appcenter-4.0.0\AndroidManifest.xml:16:5-79
+	android:name
+		ADDED from [com.microsoft.appcenter:appcenter:4.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\0b52e7781688d96dea37e60b8282a77c\jetified-appcenter-4.0.0\AndroidManifest.xml:16:22-76

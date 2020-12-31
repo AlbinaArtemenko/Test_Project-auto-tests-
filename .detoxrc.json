@@ -1,0 +1,23 @@
+{
+  "testRunner": "jest",
+  "runnerConfig": "e2e/config.json",
+  "configurations": {
+    "android": {
+      "type": "android.emulator",
+      "binaryPath": "../Test_Project-auto-tests-/android/app/build/outputs/apk/release/app-release.apk",
+      "build":
+            "cd android && gradlew assembleRelease assembleAndroidTest -DtestBuildType=release && cd ..",
+      "device": {
+          "avdName": "Pixel_3a_API_30_x86"
+      }
+    },
+    "ios.sim.debug": {
+      "binaryPath": "ios/build/Build/Products/Debug-iphonesimulator/example.app",
+      "build": "xcodebuild -project ios/example.xcodeproj -UseNewBuildSystem=NO -scheme example -configuration Debug -sdk iphonesimulator -derivedDataPath ios/build",
+      "type": "ios.simulator",
+      "device": {
+        "type": "iPhone 11 Pro"
+      }
+    }
+  }
+}

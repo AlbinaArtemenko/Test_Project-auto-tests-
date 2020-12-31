@@ -1,0 +1,43 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\user\\OneDrive\\Desktop\\Test_Project-auto-tests-\\android\\app\\build\\intermediates\\res\\merged\\androidTest\\release\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\user\\OneDrive\\Desktop\\Test_Project-auto-tests-\\android\\app\\build\\generated\\res\\resValues\\androidTest\\release\\values\\gradleResValues.xml",
+                    "from": {
+                        "startLines": "6,7",
+                        "startColumns": "4,4",
+                        "startOffsets": "164,229",
+                        "endColumns": "63,68",
+                        "endOffsets": "223,293"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,119",
+                        "endColumns": "63,68",
+                        "endOffsets": "114,183"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\user\\.gradle\\caches\\transforms-2\\files-2.1\\41553c60b23db00f9110edbc95092946\\jetified-detox-17.14.6\\res\\values\\values.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "42",
+                        "endOffsets": "93"
+                    },
+                    "to": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "188",
+                        "endColumns": "42",
+                        "endOffsets": "226"
+                    }
+                }
+            ]
+        }
+    ]
+}
