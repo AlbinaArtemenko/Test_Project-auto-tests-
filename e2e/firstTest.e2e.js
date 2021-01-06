@@ -9,7 +9,7 @@ describe('Example', () => {
   //   // await element(by.id('inputService˝RegistrationView')).tap();
   //   await expect(element(by.id('testDetox'))).toBeVisible();
   // });
-  
+
   it('view save',  async()=> {
     await expect(element(by.id('buttonRegistrateRegistrationView'))).toBeVisible();
     });
@@ -22,4 +22,36 @@ describe('Example', () => {
     await element(by.id('inputImailRegistrationView')).typeText("albina@gmail.com");
     await element(by.id('buttonRegistrateRegistrationView')).tap();
   });
+
+  it('view buttonAddTodoTodosView',  async()=> {
+    await expect(element(by.id('buttonAddTodoTodosView'))).toBeVisible();
   });
+
+    it('AddSnippetView', async()=> {
+      await element(by.id('buttonAddTodoTodosView')).tap();
+      await element(by.id('inputTitleAddTodoView')).typeText('11111');
+      await element(by.id('inputBodyAddTodoView')).typeText('380678282323');
+      await element(by.id('buttonSaveAddTodoView')).tap();
+    });
+
+    it('AddSnippetView 1', async()=> {
+      await element(by.id('buttonAddTodoTodosView')).tap();
+      await element(by.id('inputTitleAddTodoView')).typeText('hjzbvjldnbxkfckl;b');
+      await element(by.id('inputBodyAddTodoView')).typeText('hfvbjlhvbljavnklnkjvsdbvjlhshbvjlshdhdfsbvjlhbfdjl326347567956975');
+      await element(by.id('buttonSaveAddTodoView')).tap();
+});
+
+it('AddSnippetView 2', async()=> {
+  await element(by.id('buttonAddTodoTodosView')).tap();
+  await element(by.id('inputTitleAddTodoView')).typeText('');
+  await element(by.id('inputBodyAddTodoView')).typeText('');
+  await element(by.id('buttonSaveAddTodoView')).tap();
+});
+
+it('AddSnippetView 3', async()=> {
+  await element(by.id('buttonAddTodoTodosView')).tap();
+  await element(by.id('inputTitleAddTodoView')).replaceText('привет!');
+  await element(by.id('inputBodyAddTodoView')).replaceText('написать отчет!');
+  await element(by.id('buttonSaveAddTodoView')).tap();
+});
+});
