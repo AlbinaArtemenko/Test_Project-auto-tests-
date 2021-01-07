@@ -1,9 +1,9 @@
+const { it } = require("jest-circus");
+
 describe('Example', () => {
   beforeEach(async () => {
     await device.reloadReactNative();
   });
-
-  
 
   // it('should show world screen after tap', async () => {
   //   // await element(by.id('inputService˝RegistrationView')).tap();
@@ -54,4 +54,10 @@ it('AddSnippetView 3', async()=> {
   await element(by.id('inputBodyAddTodoView')).replaceText('написать отчет!');
   await element(by.id('buttonSaveAddTodoView')).tap();
 });
+
+//it('SnippetList' , async()=> {
+  //await element(by.id('inputTitleAddTodoView')).typeText('hjzbvjldnbxkfckl;b');
+  //await element(by.id('snippetListTodosView')).tap();
+  //await element(by.id('buttonAddTodoTodosView')).tap();
+//});
 });
