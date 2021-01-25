@@ -1,4 +1,0 @@
-#Mon Dec 28 10:32:22 EET 2020
-base.0=C\:\\Users\\user\\OneDrive\\Desktop\\Test_Project-auto-tests-\\android\\app\\build\\intermediates\\dex\\releaseAndroidTest\\mergeDexReleaseAndroidTest\\out\\classes.dex
-path.0=classes.dex
-renamed.0=classes.dex
