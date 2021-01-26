@@ -78,7 +78,6 @@ import com.android.build.OutputFile
  */
 
 project.ext.react = [
-    entryFile: "index.js", //потом если что удалить
     enableHermes: false,  // clean and rebuild if changing
 ]
 
@@ -123,8 +122,7 @@ def enableHermes = project.ext.react.get("enableHermes", false);
 
 android {
     compileSdkVersion rootProject.ext.compileSdkVersion
-    buildToolsVersion rootProject.ext.buildToolsVersion    //потом удалить
-
+    
     compileOptions {
         sourceCompatibility JavaVersion.VERSION_1_8
         targetCompatibility JavaVersion.VERSION_1_8
@@ -138,7 +136,7 @@ android {
         versionName "1.0"
          testBuildType System.getProperty('testBuildType', 'debug')  // This will later be used to control the test apk build type
       testInstrumentationRunner 'androidx.test.runner.AndroidJUnitRunner'
-      missingDimensionStrategy 'react-native-camera', 'general' // потом удалить
+      
     }
     splits {
         abi {
@@ -174,7 +172,6 @@ android {
             signingConfig signingConfigs.release
             minifyEnabled enableProguardInReleaseBuilds
             proguardFiles getDefaultProguardFile("proguard-android.txt"), "proguard-rules.pro"
-            proguardFile "${rootProject.projectDir}/../node_modules/detox/android/detox/proguard-rules-app.pro" // потом удалить
         }
     }
 
