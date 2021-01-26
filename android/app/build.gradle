@@ -155,7 +155,6 @@ android {
             keyAlias 'androiddebugkey'
             keyPassword 'android'
         }
-
         release { // удалить целый   раздел потом
             if (project.hasProperty('MYAPP_RELEASE_STORE_FILE')) {
                 storeFile file(MYAPP_RELEASE_STORE_FILE)
@@ -176,6 +175,7 @@ android {
             minifyEnabled enableProguardInReleaseBuilds
             proguardFiles getDefaultProguardFile("proguard-android.txt"), "proguard-rules.pro"
             proguardFile "${rootProject.projectDir}/../node_modules/detox/android/detox/proguard-rules-app.pro" // потом удалить
+            signingConfig signingConfigs.release
         }
     }
 
