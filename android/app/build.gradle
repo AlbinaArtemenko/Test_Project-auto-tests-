@@ -82,7 +82,7 @@ project.ext.react = [
     enableHermes: false,  // clean and rebuild if changing
 ]
 
-// apply from: "../../node_modules/react-native/react.gradle"
+apply from: "../../node_modules/react-native/react.gradle"
 
 /**
  * Set this to true to create two separate APKs instead of one:
@@ -136,10 +136,9 @@ android {
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1
         versionName "1.0"
-        testBuildType System.getProperty('testBuildType', 'debug')  // This will later be used to control the test apk build type
-        testInstrumentationRunner 'androidx.test.runner.AndroidJUnitRunner'
-        missingDimensionStrategy 'react-native-camera', 'general' // потом удалить
-        multiDexEnabled true
+         testBuildType System.getProperty('testBuildType', 'debug')  // This will later be used to control the test apk build type
+      testInstrumentationRunner 'androidx.test.runner.AndroidJUnitRunner'
+      missingDimensionStrategy 'react-native-camera', 'general' // потом удалить
     }
     splits {
         abi {
@@ -201,7 +200,7 @@ dependencies {
     implementation "com.facebook.react:react-native:+"  // From node_modules
     implementation "androidx.swiperefreshlayout:swiperefreshlayout:1.0.0"
     androidTestImplementation('com.wix:detox:+')
-    implementation 'com.android.support:multidex:1.0.3'
+
     debugImplementation("com.facebook.flipper:flipper:${FLIPPER_VERSION}") {
       exclude group:'com.facebook.fbjni'
     }
